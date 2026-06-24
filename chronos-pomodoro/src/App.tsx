@@ -20,10 +20,6 @@ export function App() {
       <Container>
         <CountDown />
       </Container>
-      
-      <Container>
-        <CountDown />
-      </Container>
     </>
   );
 }
